@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: helvetica,sans-serif;
+  color: #005A8D;
+}
+
+h1{
+
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: Sacramento,sans-serif;
+  color: #022E57;
+
+}
+h2{
+
+
+  margin: 0 auto 0 auto;
+  font-family: Sacramento,sans-serif;
+  color: #022E57;
+
+}
+h3{
+
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: Sacramento,sans-serif;
+  color: #022E57;
+
+}
+
+div{
+  background-color: #FF96AD;
+}
+
+.topcontainer{
+  padding: 50px;
+}
+
+p{
+  font-family: Bubblegum,sans-serif;
+}
+
+.top-cloud{
+    position: absolute;
+    top : 10px;
+    right : 300px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  top : 200px;
+  left : 300px;
+}
+
+.bottom-container{
+    font-family: Bubblegum,sans-serif;
+}
